@@ -17,3 +17,18 @@ Direct trade is a form of sourcing practiced by some coffee roasters. Advocates 
 
 ### Reinvest profits
 We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+
+<form name="contact" netlify>
+  <p>
+    <label>Your Name: <input type="text" name="name"></label>   
+  </p>
+  <p>
+    <label>Your Email: <input type="email" name="email"></label>
+  </p>
+  <p>
+    <label>Message: <textarea name="message"></textarea></label>
+  </p>
+  <p>
+    <button type="submit">Send</button>
+  </p>
+</form>
